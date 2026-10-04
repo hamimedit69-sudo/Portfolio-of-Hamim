@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 
-const EMAIL = "your@email.com"; // replace with your email
+const EMAIL = "aousafhamim46@gmail.com"; // replace with your email
 
 const socials = [
     { name: "Instagram", href: "https://instagram.com/" },
