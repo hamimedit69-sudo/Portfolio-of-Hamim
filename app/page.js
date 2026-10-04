@@ -81,7 +81,7 @@ export default function Home() {
             <div className="ml-3 flex items-center gap-6">
               {/* Instagram */}
               <a
-                href="#"
+                href="https:www.instagram.com/hamim_khan72?stkn=dnQ0N2hxaTN2enZr"
                 aria-label="Instagram"
                 className="text-white transition-opacity duration-200 hover:opacity-70"
               >
@@ -121,7 +121,7 @@ export default function Home() {
 
               {/* GitHub */}
               <a
-                href="#"
+                href="https://github.com/hamimedit69-sudo"
                 aria-label="GitHub"
                 className="text-white transition-opacity duration-200 hover:opacity-70"
               >
@@ -137,7 +137,7 @@ export default function Home() {
 
               {/* LinkedIn */}
               <a
-                href="#"
+                href="https:www.linkedin.com/in/hamim-hamim-50450a368"
                 aria-label="LinkedIn"
                 className="text-white transition-opacity duration-200 hover:opacity-70"
               >

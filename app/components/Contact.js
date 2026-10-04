@@ -5,9 +5,9 @@ import { useState } from "react";
 const EMAIL = "aousafhamim46@gmail.com"; // replace with your email
 
 const socials = [
-    { name: "Instagram", href: "https://instagram.com/" },
-    { name: "GitHub", href: "https://github.com/" },
-    { name: "LinkedIn", href: "https://linkedin.com/" },
+    { name: "Instagram", href: "https:www.instagram.com/hamim_khan72?stkn=dnQ0N2hxaTN2enZr" },
+    { name: "GitHub", href: "https://github.com/hamimedit69-sudo" },
+    { name: "LinkedIn", href: "https:www.linkedin.com/in/hamim-hamim-50450a368" },
 ];
 
 const textured = {
