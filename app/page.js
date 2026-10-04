@@ -5,6 +5,8 @@ import { Section } from "lucide-react";
 import RealEstateProject from "./RealEstateProject";
 import Projects from "./components/Projects";
 import Footer from "./components/Footer";
+import About from "./components/About";
+import Contact from "./components/Contact";
 
 export default function Home() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -257,6 +259,8 @@ export default function Home() {
       </section>
 
       <Projects />
+      <About />
+      <Contact />
       <Footer />
     </main>
 
